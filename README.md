@@ -191,7 +191,7 @@ Happy coding! 🚀
 ![----------------------------------------------](docs/assets/images/separator1.png)
 
 Contributions are encouraged and valued. Have a look at our
-[contributing guidelines](.github/CONTRIBUTING.md) for the full picture.
+[contributing guidelines](CONTRIBUTING.md) for the full picture.
 
 ## ❤️ Acknowledgements
 
